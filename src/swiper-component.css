@@ -1,0 +1,13 @@
+SwiperSlide {
+  color: white;
+}
+
+img {
+  height: 200px;
+  width: 80%;
+}
+
+.swiper-pointer-events {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
